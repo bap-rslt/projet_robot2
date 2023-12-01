@@ -1,7 +1,7 @@
 
 # Autonomous finder robot
 
-This primary goal of this project was to code an autonomous object-finder robot project. The robot is powered by a PIC18 microcontroller, and is equipped with a sonar sensor to detect its surroundings.
+The primary goal of this project was to code an autonomous object-finder robot project. The robot is powered by a PIC18 microcontroller, and is equipped with a sonar sensor to detect its surroundings.
 
 
 
